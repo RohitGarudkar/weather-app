@@ -74,4 +74,4 @@ locationInput.addEventListener('keypress', (e) => {
 });
 
 // Load default location on page load
-getWeather('London');
+getWeather('Pune');
