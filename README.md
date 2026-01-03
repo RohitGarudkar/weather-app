@@ -18,7 +18,7 @@ A beautiful, responsive weather application that displays current weather inform
 
 ## 🚀 Live Demo
 
-**API Key Used:** `78de202ec53a468e97d74106260301`
+**API Key Used:** ``
 
 Simply open `index.html` in your browser to see the app in action!
 
@@ -79,7 +79,7 @@ If you want to hide the API key for production:
    - Go to repository → Settings → Secrets and variables → Actions
    - Click "New repository secret"
    - Name: `WEATHER_API_KEY`
-   - Value: `78de202ec53a468e97d74106260301`
+   - Value: ``
 
 3. **Create GitHub Actions workflow** (`.github/workflows/deploy.yml`)
    ```yaml
@@ -106,7 +106,7 @@ If you want to hide the API key for production:
 
 **Provider:** [WeatherAPI.com](https://www.weatherapi.com/)
 
-**Current API Key:** `78de202ec53a468e97d74106260301`
+**Current API Key:** ``
 
 **Note:** This is a free tier API key with limitations:
 - 1,000,000 calls per month
@@ -203,3 +203,4 @@ If you have any questions or need help, feel free to:
 **Made with ❤️ by Your Name**
 
 **⭐ Star this repo if you like it!**
+
