@@ -105,7 +105,7 @@ If you want to hide the API key for production:
 **Provider:** [WeatherAPI.com](https://www.weatherapi.com/)
 
 **Note:** This is a free tier API key with limitations:
-- 500,000 calls per month
+- 5,000,000 calls per month
 - Current weather data
 - Forecast data
 - Astronomy data
@@ -199,5 +199,6 @@ If you have any questions or need help, feel free to:
 **Made with ❤️ by Your Name**
 
 **⭐ Star this repo if you like it!**
+
 
 
